@@ -15,7 +15,7 @@ module.exports = {
         "hero-pattern":"url('../images/Oval pattern.png')",
       },
       height: {
-        "50": "60rem",
+        "50": "45rem",
         "1/2":"400px"
       },
     width: {
